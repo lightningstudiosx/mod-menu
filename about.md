@@ -1,28 +1,24 @@
 # Overload Menu
 
-A big mod menu: **59 options** in one searchable menu.
+A huge mod menu: **273 options in 14 tabs**, all searchable.
 
-- **Player**:
-  - Noclip with accuracy and a death flash.
-  - Jump hack, auto clicker, frame stepper.
-  - Custom respawn time.
-  - No death effect or sound.
-  - Auto practice, practice music sync.
-- **Level**:
-  - StartPos switcher, with Q / E keys or on-screen arrows.
-  - Accurate percentage, hitboxes, no mirror, no shake.
-  - Hide any part of the UI.
-- **Speed**: speedhack from 0.05x to 10x, with the music following along.
-- **Visual**:
-  - Rainbow icons.
-  - Trail tweaks.
-  - No transitions.
-  - Unlock all icons.
-- **HUD**:
-  - Cheat indicator.
-  - FPS, CPS, noclip accuracy.
-  - Attempts, best run, timers, jumps, level ID, clock.
+- **Icons**:
+  - Any icon for every gamemode, with previews.
+  - Size, spin, mirror, jelly, glow.
+  - Any death effect.
+- **Colors**: main, second, glow, trail and wave trail colours for each player. Each can be a GD colour, your own RGB, rainbow or pulse.
+- **Player and Practice**:
+  - Noclip, jump hack, auto clicker, frame stepper.
+  - Auto restart at %, death markers, respawn time.
+- **Level and Speed**:
+  - StartPos switcher, accurate %, hitboxes.
+  - Speedhack with slow-mo key, hide any UI.
+- **World and Fun**:
+  - Hide ground or background, custom colours, screen tint, zoom, rotation and mirror.
+  - Disco, drunk mode, earthquake.
+- **HUD**: 56 readouts (FPS, CPS, noclip accuracy, best run, position, level info and more), fully styleable.
+- **Extras**: level IDs and object counts on level pages, text box bypasses.
 
-**Safe mode** (on by default): while any cheat is on, the attempt can't save progress, bests or completions.
+**Safe mode** (on by default): while a cheat is on, the attempt can't save progress, bests or completions.
 
 Open it with **Tab**, or with the pink **OV** button on the main menu or in the pause menu.
