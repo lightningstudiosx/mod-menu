@@ -1,0 +1,68 @@
+{
+	"geode": "5.10.1",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "kai.overload-menu",
+	"name": "Overload Menu",
+	"version": "v1.0.0",
+	"developer": "Kai",
+	"description": "A big mod menu: noclip, speedhack, startpos switcher, hitboxes, autoclicker, frame stepper, HUD and lots more.",
+	"tags": [
+		"gameplay",
+		"utility",
+		"interface",
+		"cheat"
+	],
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3"
+	},
+	"settings": {
+		"keys-title": {
+			"type": "title",
+			"name": "Keys",
+			"description": "Every option is inside the menu itself. These are just the shortcut keys."
+		},
+		"open-menu": {
+			"type": "keybind",
+			"name": "Open the menu",
+			"description": "Opens or closes the Overload Menu anywhere in the game.",
+			"default": "Tab",
+			"category": "universal"
+		},
+		"toggle-noclip": {
+			"type": "keybind",
+			"name": "Toggle noclip",
+			"default": "N",
+			"category": "gameplay"
+		},
+		"toggle-speedhack": {
+			"type": "keybind",
+			"name": "Toggle speedhack",
+			"default": "Alt+S",
+			"category": "gameplay"
+		},
+		"frame-step": {
+			"type": "keybind",
+			"name": "Frame stepper: step",
+			"description": "With the frame stepper on, moves the game forward one tick. Hold it to keep stepping.",
+			"default": "F",
+			"category": "gameplay"
+		},
+		"startpos-prev": {
+			"type": "keybind",
+			"name": "Previous start position",
+			"default": "Q",
+			"category": "gameplay"
+		},
+		"startpos-next": {
+			"type": "keybind",
+			"name": "Next start position",
+			"default": "E",
+			"category": "gameplay"
+		}
+	}
+}
